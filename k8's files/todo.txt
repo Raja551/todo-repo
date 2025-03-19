@@ -1,0 +1,4 @@
+Creating this file to add my to-do list
+
+1. complete this git course today
+2. complete kubernetes course when portal.azure is back
